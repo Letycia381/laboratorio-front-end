@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Elementos HTML <i> HTML</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h2>A tag <i> serve para deixar o texto em italico, por ser uma palavra estrangeira ou pensamentos.</h2><br>
+        <h3> Pode ser usada pra coocar um destaque da palavra que for aplicada.</h3> <br>
+        <p> Por exemplo:</p> <br>
+        <p>palavras em outra lingua:<i>Bonjour<i></p><br>
+        <p>Título de músicas, livros ou filmes:<i>Ordinary<i></p><br>
+        <h3>A difereinça entre <i> e <em><h3><br>
+        <p>A tag <i> apenas estiliza e tem um significado leve, já a tag <em> também italiza mas é para mostrar um significado mais forte.</p><br>
+        <h3>Sobre tag <i>: <a href="https://www.w3schools.com/tags/tag_i.asp">Tag <i></a><h3><br>
+
+    </body>
+</html>
