@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo CSS - Capítulo 1</title>
+    <!-- CSS Interno -->
+    <style>
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+        .paragrafo-interno {
+            color: green;
+            font-size: 18px;
+        }
+    </style>
+    <!-- CSS Externo -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- CSS Inline -->
+    <p style="color: red; font-weight: bold;">
+        Este parágrafo usa CSS inline.
+    </p>
+    <!-- CSS Interno -->
+    <h1>Exemplo de CSS Interno</h1>
+    <p class="paragrafo-interno">
+        Este parágrafo está estilizado com CSS interno.
+    </p>
+    <!-- CSS Externo -->
+    <div class="caixa-externa">
+        <p>Este conteúdo está estilizado com CSS externo.</p>
+    </div>
+</body>
+</html>

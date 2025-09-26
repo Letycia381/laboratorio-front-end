@@ -1,0 +1,8 @@
+.caixa-externa {
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid navy;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
